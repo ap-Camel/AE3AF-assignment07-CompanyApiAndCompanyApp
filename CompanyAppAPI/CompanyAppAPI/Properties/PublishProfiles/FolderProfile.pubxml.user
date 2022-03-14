@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Sites\CompanyApi</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CompanyDbConnection">
+      <Value>Server=DESKTOP-BC885L6\SQLEXPRESS%3bDatabase=Company_DB%3bUser Id=new_ayman%3bPassword=P%40%24%24w0rd%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
